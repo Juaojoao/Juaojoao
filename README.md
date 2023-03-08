@@ -1,8 +1,8 @@
 ## RESUMO 🤖
 <ul>
   <li>🗿🍷 Olá, me chamo João Vitor!</li>
-  <li>📚 Estudando Atualmete: JavaScript & CSS avançado</li>
-  <li>👾 Desenvolvedor Front-End</li>
+  <li>📚 Estudando Atualmete: NODE.js e Consumo de API</li>
+  <li>👾 Desenvolvedor FUllStack</li>
 </ul>
 <div>
   <a href = "mailto:soloqf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
