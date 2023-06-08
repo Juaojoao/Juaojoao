@@ -1,7 +1,7 @@
 ## A brief summary 🤖
 <ul>
   <li>🗿🍷 Hello, my name is João Vitor!</li>
-  <li>📚 Currently Studying: NODE.js, API consumption, database connection</li>
+  <li>📚 Currently Studying: NODE.js, TypeScript, API consumption, database connection</li>
   <li>👾 FullStack Developer</li>
 </ul>
 <div>
