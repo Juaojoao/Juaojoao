@@ -1,12 +1,11 @@
-## A brief summary 🤖
 <ul>
   <li>🗿🍷 Hello, my name is João Vitor!</li>
   <li>📚 Currently Studying: NODE.js, TypeScript, API consumption, database connection</li>
   <li>👾 FullStack Developer</li>
 </ul>
 <div>
-  <a href = "mailto:soloqf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaovitor-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a target="_blank" href = "mailto:soloqf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/jaosilva-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ## Knowledge in:
