@@ -15,6 +15,8 @@
   <img align="center" alt="icon" height="40" width="40" src="https://skillicons.dev/icons?i=js">
   <img align="center" alt="icon" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs">
   <img align="center" alt="icon" height="40" width="40" src="https://skillicons.dev/icons?i=typescript">
+  <img align="center" alt="icon" height="40" width="40" src="https://skillicons.dev/icons?i=prisma">
+  <img align="center" alt="icon" height="40" width="40" src="https://skillicons.dev/icons?i=postgresql">
 </div>
 
 ##
